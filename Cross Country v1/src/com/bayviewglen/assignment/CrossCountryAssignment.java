@@ -1,4 +1,8 @@
-
+//This program is designed to collect and  display data (in the proper format) based on user input.
+//The user will input a runner's name, time for their first mile, second mile, and for the whole race.
+//Split time are calculated, and displayed in an individual chart with the runner's name.
+//Times are inputed and displayed in the format: mm:ss.ss
+//After the user has inputed 5 runners, they are displayed in a large chart, and the program ends.
 package com.bayviewglen.assignment;
 
 import java.text.DecimalFormat;
@@ -8,7 +12,7 @@ public class CrossCountryAssignment {
 	public static final int SECONDS_PER_MINUTE = 60;
 
 	public static void main(String[] args) {
-//Joshua Meyer
+
 		Scanner keyboard = new Scanner(System.in);//adding keyboard to allow the user to input data
 		DecimalFormat formatter = new DecimalFormat("00.000");//formatter is used to only allow 3 decimal places.
 
