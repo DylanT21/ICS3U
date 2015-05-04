@@ -1,0 +1,45 @@
+Room Name: Training Center
+Room Description: You wake up with nothing but braces on your legs and a destroyed training ground. There are a number of items scattered around the room. You notice a letter and a strange looking gun.
+Exit Rooms: S-Facility3, E-Storage Room 1
+Room Name: Storage Room 1
+Room Description: A barely lit room with dust everywhere. You find a weird metal ball with a dimly lit blue light.
+Exit Rooms: W-Training Center
+Room Name: Facility3
+Room Description: 
+Exit Rooms: N-Training Center, E-Facility4, S-Facility5
+Room Name: Facility4
+Room Description:
+Exit Rooms: W-Facility3, E-Hallway1, S-Facility6
+Room Name: Hallway1
+Room Description:
+Exit Rooms: W-Facility4, E-Hallway2
+Room Name: Hallway2
+Room Description:
+Exit Rooms: W-Hallway1, E-Hallway3
+Room Name: Hallway3
+Room Description:
+Exit Rooms: W-Hallway2, E-Hallway4
+Room Name: Hallway4
+Room Description:
+Exit Rooms: W-Hallway3, E-Facility8
+Room Name: Facility8
+Room Description:
+Exit Rooms: W-Hallway4, South Facility7
+Room Name: Facility5
+Room Description:
+Exit Rooms: N-Facility3, E-Facility6, S-Facility17
+Room Name: Facility6
+Room Description:
+Exit Rooms: N-Facility4, E-Facility7, S-Facility16, W-Facility5
+Room Name: Facility7
+Room Description:
+Exit Rooms: N-Facility8, E-Facility15, W-Facility6
+Room Name: Facility 15
+Room Description:
+Exit Rooms: W-Facility7
+Room Name: Facility 17
+Room Description:
+Exit Rooms: N-Facility5, E-Facility16
+Room Name: Facility16
+Room Description:
+Exit Rooms: N-Facility6, W-Facility17
