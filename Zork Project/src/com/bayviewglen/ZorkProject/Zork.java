@@ -1,4 +1,4 @@
-package com.bayviewglen.zork;
+package com.bayviewglen.ZorkProject;
 
 public class Zork {
 
