@@ -1,45 +1,51 @@
 Room Name: Training Center
-Room Description: You wake up with nothing but braces on your legs and a destroyed training ground. There are a number of items scattered around the room. You notice a letter and a strange looking gun.
-Exit Rooms: S-Facility3, E-Storage Room 1
-Room Name: Storage Room 1
-Room Description: A barely lit room with dust everywhere. You find a weird metal ball with a dimly lit blue light.
-Exit Rooms: W-Training Center
+Room Description: You wake up with nothing but braces on your legs and a destroyed training ground.
+Exit Rooms: E-Training Center2, S-Facility3
+Room Name: Training Center2
+Room Description: You look around and see the entire room destroyed. You see a white gun in the corner.
+Exit Rooms: W-Training Center, E-Storage Room1
+Room Name: Storage Room1
+Room Description: The room is pitch black. You see a dimly lit blue light on the floor
+Exit Rooms: W-Training Center2
 Room Name: Facility3
-Room Description: 
+Room Description: The Facility is mostly destroyed. You see a letter on the floor. 
 Exit Rooms: N-Training Center, E-Facility4, S-Facility5
-Room Name: Facility4
+Room Name: Facility 4
 Room Description:
-Exit Rooms: W-Facility3, E-Hallway1, S-Facility6
+Exit Rooms: E-Hallway1, W-Facility3, S-Facility6
+Room Name: Facility 5	
+Room Description:
+Exit Rooms: S-Facility17, E-Facility6, N-Facility3
+Room Name: Facility17
+Room Description:
+Exit Rooms: N-Facility5, E-Facility16	
+Room Name: Facility6
+Room Description:
+Exit Rooms: N-Facility4, W-Facility5, S-Facility16, E-Stairs
+Room Name: Facility16
+Room Description:
+Exit Rooms: W-Facility17, N-Facility6, E-Facility22
+Room Name: Facility22
+Room Description:
+Exit Rooms: W-Facility16
 Room Name: Hallway1
 Room Description:
-Exit Rooms: W-Facility4, E-Hallway2
+Exit Rooms: W-Facility4
 Room Name: Hallway2
-Room Description:
+Room Description
 Exit Rooms: W-Hallway1, E-Hallway3
 Room Name: Hallway3
-Room Description:
+Room Description
 Exit Rooms: W-Hallway2, E-Hallway4
 Room Name: Hallway4
 Room Description:
-Exit Rooms: W-Hallway3, E-Facility8
+Exit Rooms: E-Hallway3, W-Facility8
 Room Name: Facility8
 Room Description:
-Exit Rooms: W-Hallway4, South Facility7
-Room Name: Facility5
+Exit Rooms: E-Hallway4, S-Stairs
+Room Name: Stairs
 Room Description:
-Exit Rooms: N-Facility3, E-Facility6, S-Facility17
-Room Name: Facility6
-Room Description:
-Exit Rooms: N-Facility4, E-Facility7, S-Facility16, W-Facility5
-Room Name: Facility7
-Room Description:
-Exit Rooms: N-Facility8, E-Facility15, W-Facility6
-Room Name: Facility 15
-Room Description:
-Exit Rooms: W-Facility7
-Room Name: Facility 17
-Room Description:
-Exit Rooms: N-Facility5, E-Facility16
-Room Name: Facility16
-Room Description:
-Exit Rooms: N-Facility6, W-Facility17
+Exit Rooms: N-Facility8, E-Facility15, U-Facility23
+Room Name: Facility23
+Room Description: 
+Exit Rooms: D-Stars, E-Room9,
