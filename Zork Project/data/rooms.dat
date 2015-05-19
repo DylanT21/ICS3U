@@ -1,15 +1,15 @@
 Room Name: Training Center
 Room Description: You wake up with nothing but braces on your legs and a destroyed training ground.
 Exit Rooms: E-Training Center2, S-Facility3
-Items: Portal Gun, letter
+Items: portal gun, letter
 Room Name: Training Center2
 Room Description: You look around and see the entire room destroyed. You see a white gun in the corner.
 Exit Rooms: W-Training Center, E-Storage Room1
-Items: object1
+Items: Object1
 Room Name: Storage Room1
 Room Description: The room is pitch black. You see a dimly lit blue light on the floor
 Exit Rooms: W-Training Center2
-Items: None
+Items: Object2
 Room Name: Facility3
 Room Description: The Facility is mostly destroyed. You see a letter on the floor. 
 Exit Rooms: N-Training Center, E-Facility4, S-Facility5
