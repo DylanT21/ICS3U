@@ -1,16 +1,15 @@
-<<<<<<< HEAD
 Room Name: Training Center
 Room Description: You wake up with nothing but braces on your legs and a destroyed training ground.
 Exit Rooms: E-Training Center2, S-Facility3
 Items: portal gun, letter
 Room Name: Training Center2
-Room Description: You look around and see the entire room destroyed. You see a white gun in the corner.
+Room Description: You look around and see the entire room destroyed.
 Exit Rooms: W-Training Center, E-Storage Room1
 Items: Object1
 Room Name: Storage Room1
 Room Description: The room is pitch black. You see a dimly lit blue light on the floor
 Exit Rooms: W-Training Center2
-Items: Object2
+Items: light
 Room Name: Facility3
 Room Description: The Facility is mostly destroyed. You see a letter on the floor. 
 Exit Rooms: N-Training Center, E-Facility4, S-Facility5
@@ -134,141 +133,4 @@ Items: None
 Room Name: Facility18
 Room Description:The Facility is mostly destroyed.
 Exit Rooms: S-PotatoRoom
-=======
-Room Name: Training Center
-Room Description: You wake up with nothing but braces on your legs and a destroyed training ground.
-Exit Rooms: E-Training Center2, S-Facility3
-Items: portal gun, letter
-Room Name: Training Center2
-Room Description: You look around and see the entire room destroyed. You see a white gun in the corner.
-Exit Rooms: W-Training Center, E-Storage Room1
-Items: Object1
-Room Name: Storage Room1
-Room Description: The room is pitch black. You see a dimly lit blue light on the floor
-Exit Rooms: W-Training Center2
-Items: Object2
-Room Name: Facility3
-Room Description: The Facility is mostly destroyed. You see a letter on the floor. 
-Exit Rooms: N-Training Center, E-Facility4, S-Facility5
-Items: None
-Room Name: Facility 4
-Room Description:The Facility is mostly destroyed.
-Exit Rooms: E-Hallway1, W-Facility3, S-Facility6
-Items: None
-Room Name: Facility 5	
-Room Description:The Facility is mostly destroyed.
-Exit Rooms: S-Facility17, E-Facility6, N-Facility3
-Items: None
-Room Name: Facility17
-Room Description:The Facility is mostly destroyed.
-Exit Rooms: N-Facility5, E-Facility16	
-Items: None
-Room Name: Facility6
-Room Description:The Facility is mostly destroyed.
-Exit Rooms: N-Facility4, W-Facility5, S-Facility16, E-Stairs
-Items: None
-Room Name: Facility16
-Room Description:The Facility is mostly destroyed.
-Exit Rooms: W-Facility17, N-Facility6, E-Facility22
-Items: None
-Room Name: Facility22
-Room Description:The Facility is mostly destroyed.
-Exit Rooms: W-Facility16
-Items: None
-Room Name: Hallway1
-Room Description:The Facility is mostly destroyed.
-Exit Rooms: W-Facility4
-Items: None
-Room Name: Hallway2
-Room Description:The Facility is mostly destroyed.
-Exit Rooms: W-Hallway1, E-Hallway3
-Items: None
-Room Name: Hallway3
-Room Description:The Facility is mostly destroyed.
-Exit Rooms: W-Hallway2, E-Hallway4
-Items: None
-Room Name: Hallway4
-Room Description:The Facility is mostly destroyed.
-Exit Rooms: E-Hallway3, W-Facility8
-Items: None
-Room Name: Facility8
-Room Description:The Facility is mostly destroyed.
-Exit Rooms: E-Hallway4, S-Stairs
-Items: None
-Room Name: Stairs
-Room Description: The Room is fairly dark. You see a flight of stairs that leads up to somewhere but there's something blocking the door.
-Exit Rooms: N-Facility8, E-Facility15, U-Facility23
-Items: None
-Room Name: Facility23
-Room Description: The Facility is mostly destroyed.
-Exit Rooms: D-Stairs, E-Corridor1, S-Facility10
-Items: None
-Room Name: Facility15
-Room Description:The Facility is mostly destroyed.
-Exit Rooms: W-Stairs
-Items: None
-Room Name: Facility10
-Room Description:The Facility is mostly destroyed.
-Exit Rooms: N-Facility23, S-Facility12
-Items: None
-Room Name: Facility12
-Room Description: The Facility is mostly destroyed.
-Exit Rooms: N-Facility10, S-Facility 19, E-Corridor7
-Items: None
-Room Name: Facility19
-Room Description:The Facility is mostly destroyed.
-Exit Rooms: N-Facility12, E-Facility20
-Items: None
-Room Name: Corridor7
-Room Description:The Facility is mostly destroyed.
-Exit Rooms: W-Facility12, E-Corridor8
-Items: None
-Room Name: Corridor8
-Room Description:The Facility is mostly destroyed.
-Exit Rooms: E-Central Core, W-Facility12
-Items: None
-Room Name: Facility20
-Room Description:The Facility is mostly destroyed.
-Exit Rooms: W-Facility19, E-Facility21
-Items: None
-Room Name: Facility21
-Room Description:The Facility is mostly destroyed.
-Exit Rooms: W-Facility20
-Items: None
-Room Name: Central Core
-Room Description: THE CAKE IS A LIE
-Exit Room: W-Corridor8
-Items: None
-Room Name: Corridor1
-Room Description:The Facility is mostly destroyed.
-Exit Rooms: W-Facility23, E-Corridor2
-Items: None
-Room Name: Corridor2
-Room Description:The Facility is mostly destroyed.
-Exit Rooms: W-Corridor1, E-Corridor3
-Items: None
-Room Name: Corridor3
-Room Description:The Facility is mostly destroyed.
-Exit Rooms: W-Corridor2, E-Corridor4
-Items: None
-Room Name: Corridor4
-Room Description:The Facility is mostly destroyed.
-Exit Rooms: W-Corridor3, E-Corridor5
-Items: None
-Room Name: Corridor5
-Room Description:The Facility is mostly destroyed.
-Exit Rooms: W-Corridor4, E-Corridor6
-Items: None
-Room Name: Corridor6
-Room Description:The Facility is mostly destroyed.
-Exit Rooms: W-Corridor5, E-PotatoRoom
-Items: None
-Room Name: PotatoROom
-Room Description: A dark storage room. You see a small nest with a potato inside with two eggs. You hear a faint robotic voice. 
-Exit Rooms: W-Corridor6, N-Facility18
-Items: None
-Room Name: Facility18
-Room Description:The Facility is mostly destroyed.
-Exit Rooms: S-PotatoRoom
->>>>>>> origin/master
 Items: None

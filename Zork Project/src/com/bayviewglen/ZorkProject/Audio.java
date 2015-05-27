@@ -15,8 +15,9 @@ import javax.sound.sampled.UnsupportedAudioFileException;
 
 
 
-public class Test {
+public class Audio {
 	private HashMap<String, Clip> clipMap;
+	private String currentClip;
 	// The method for the test program, you could just copy paste this into your
 	// program and put the string for the url in the parameters.
 	public static Clip loadSound(String url1) throws InterruptedException {
@@ -41,31 +42,38 @@ public class Test {
 		 	return clip;
 		// Be advised this only works for .wav s
 	}
-	public Test() throws InterruptedException{
+	public Audio() throws InterruptedException{
 		
 		initAudio();
+		currentClip = null;
+	/*
 		clipMap.get("bird").start();
-		Thread.sleep(5000);
+		Thread.sleep(20000);
 		clipMap.get("bird").stop();
-		clipMap.get("loudnoises").start();
-		Thread.sleep(5000);
+	*/
 	}
 	
 	public void initAudio(){
 		clipMap = new HashMap<String, Clip>();
+	
 		try {
-			clipMap.put("bird", loadSound("Audio/BIRD.wav"));
-			clipMap.put("loudnoises", loadSound("Audio/Loud Noises.wav"));
+			clipMap.put("FACILITY2", loadSound("Audio/BIRD.wav"));
+			clipMap.put("FACILITY3", loadSound("Audio/Loud Noises.wav"));
 		} catch (InterruptedException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
+	
 	}
 	
-	public static void main(String[] args) throws InterruptedException{
-		
-		Test t = new Test();
-	
+	public void playSound(String roomKey){
+		if (clipMap.containsKey(roomKey)){
+			clipMap.get(roomKey).start();
+			currentClip = roomKey;
+		}else if (currentClip != null){
+			clipMap.get(currentClip).stop();
+		}
+			
 	}
 	
 }
