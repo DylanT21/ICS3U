@@ -5,7 +5,7 @@ Items: portal gun, letter
 Room Name: Training Center2
 Room Description: You look around and see the entire room destroyed.
 Exit Rooms: W-Training Center, E-Storage Room1
-Items: Object1
+Items: testBook
 Room Name: Storage Room1
 Room Description: The room is pitch black. You see a dimly lit blue light on the floor
 Exit Rooms: W-Training Center2
@@ -14,11 +14,11 @@ Room Name: Facility3
 Room Description: The Facility is mostly destroyed. You see a letter on the floor. 
 Exit Rooms: N-Training Center, E-Facility4, S-Facility5
 Items: None
-Room Name: Facility 4
+Room Name: Facility4
 Room Description:The Facility is mostly destroyed.
 Exit Rooms: E-Hallway1, W-Facility3, S-Facility6
 Items: None
-Room Name: Facility 5	
+Room Name: Facility5	
 Room Description:The Facility is mostly destroyed.
 Exit Rooms: S-Facility17, E-Facility6, N-Facility3
 Items: None
