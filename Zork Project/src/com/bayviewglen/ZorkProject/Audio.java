@@ -75,6 +75,8 @@ public class Audio {
 			clipMap.put("FACILITY20", loadSound("Audio/bring your child to work  day.wav"));
 			clipMap.put("POTATOROOM", loadSound("Audio/Spanish.wav"));
 			clipMap.put("CORRIDOR6", loadSound("Audio/Glados SLow Clap.wav"));
+			clipMap.put("CENTRALCORE", loadSound("Audio/Portal 2 - GLaDOS Ending Speech.wav"));
+			clipMap.put("CENTRALCORE", loadSound("Audio/im in space.wav"));
 		} catch (InterruptedException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
