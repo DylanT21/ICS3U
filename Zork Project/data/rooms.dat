@@ -73,7 +73,7 @@ Items: None
 Room Name: Facility10
 Room Description: You see the sign "Testing Chamber two". 
 Exit Rooms: N-Facility23, S-Facility12
-Items: None
+Items: milk
 Room Name: Facility12
 Room Description: You look up and see wheatly in a room above you.<br> There is another item on the floor that looks like chocolate.
 Exit Rooms: N-Facility10, S-Facility 19, E-Corridor7
@@ -89,7 +89,7 @@ Items: None
 Room Name: Corridor8
 Room Description: You can barely see the end of the hall way. <br> There is a small dim light at the end and Glado’s voice fades.
 Exit Rooms: E-Central Core, W-Facility12
-Items: None
+Items: eggs
 Room Name: Facility20
 Room Description: You see a bunch of children’s projects aligned against the wall. <br> You notice the potato clock.
 Exit Rooms: W-Facility19, E-Facility21
@@ -97,7 +97,7 @@ Items: Potato
 Room Name: Facility21
 Room Description: You have completed the Test Chambers of Abstergo.
 Exit Rooms: W-Facility20
-Items: Cake_stuff
+Items: chocolate
 Room Name: Central Core
 Room Description: A big white room with nothing in it. You feel a slight chill just standing in it. 
 Exit Room: W-Corridor8
@@ -133,4 +133,4 @@ Items: Truth
 Room Name: Facility18
 Room Description:The Facility is mostly destroyed.
 Exit Rooms: S-PotatoRoom
-Items: None
+Items: cow's_blood
