@@ -22,7 +22,7 @@ public class Intro {
             System.out.println ("There was an error during reading: "
                                 + exc.getMessage());
         }
-        if(Answer == "load"){
+        if(Answer.equals("load")){
         	System.out.println("fuck this shit");
         	done = true;
         }
