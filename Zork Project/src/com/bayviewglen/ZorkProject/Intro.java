@@ -23,7 +23,7 @@ public class Intro {
                                 + exc.getMessage());
         }
         if(Answer.equals("load")){
-        	System.out.println("fuck this shit");
+        	System.out.println("");
         	done = true;
         }
 		}
