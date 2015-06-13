@@ -1,4 +1,5 @@
 package com.bayviewglen.ZorkProject;
+import java.io.Serializable;
 
 
 import java.io.File;
