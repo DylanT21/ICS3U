@@ -16,7 +16,9 @@ import javax.sound.sampled.UnsupportedAudioFileException;
 
 
 
-public class Audio {
+
+@SuppressWarnings("serial")
+public class Audio implements Serializable {
 	private HashMap<String, Clip> clipMap;
 	private String currentClip;
 	// The method for the test program, you could just copy paste this into your

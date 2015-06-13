@@ -1,10 +1,10 @@
 package com.bayviewglen.ZorkProject;
 import java.io.Serializable;
-
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 
-public class Puzzle {
+@SuppressWarnings("serial")
+public class Puzzle implements Serializable {
 int random = 0;
 
 //Facility8 
